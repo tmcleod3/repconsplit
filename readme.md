@@ -46,7 +46,7 @@ By offering a Markdown-based solution, this tool ensures accessibility, portabil
   - Contains the split Markdown files named sequentially as `consolidated_repository_part_<n>.md` in the `repo_dir`
 
 - **`ai_ingest.md`**:
-  - Instructions to give toLLMs to ingest the generated files.
+  - Instructions to give to LLMs to ingest the generated files.
 
 ---
 

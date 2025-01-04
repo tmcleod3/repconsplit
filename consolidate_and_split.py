@@ -2,7 +2,7 @@ import os
 from pathspec import PathSpec
 
 # Directory containing the Git repo
-repo_dir = "/Users/thomasmcleod/Projects/trading_system"
+repo_dir = "REPO PATH HERE"
 
 # Path to .gitignore
 gitignore_path = os.path.join(repo_dir, ".gitignore")

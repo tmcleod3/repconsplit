@@ -43,10 +43,10 @@ By offering a Markdown-based solution, this tool ensures accessibility, portabil
 ## Folder Structure
 
 - **`trainers/`**:
-  - Contains the split Markdown files named sequentially as `consolidated_repository_part_<n>.md`.
+  - Contains the split Markdown files named sequentially as `consolidated_repository_part_<n>.md` in the `repo_dir`
 
-- **`injest.md`**:
-  - Instructions for LLMs to ingest the generated files.
+- **`ai_ingest.md`**:
+  - Instructions to give toLLMs to ingest the generated files.
 
 ---
 
